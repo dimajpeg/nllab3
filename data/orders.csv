@@ -1,0 +1,6 @@
+Order ID,Order Date,Customer ID,Ship Mode,Sales,State
+CA-2017-152156,2017-11-08,CG-12520,First Class,261.96,California
+CA-2017-138688,2017-06-12,MO-14445,Same Day,731.94,Washington
+CA-2017-115812,2017-09-14,DK-13245,Second Class,14.62,California
+CA-2017-115812,2017-12-01,JM-15530,First Class,508.71,Texas
+CA-2018-123456,2018-04-03,CG-12520,Standard Class,255.96,California
